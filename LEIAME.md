@@ -34,3 +34,7 @@ Para rodar o composer, basta acessar a pasta do projeto e executar o comando aba
 ```
 
 Após essa execução uma pasta com o nome `vendor` será criada na raiz do projeto e você já poderá acessar pelo seu navegador.
+
+## Comando para rodar um servidor PHP
+php -S localhost:8000
+
